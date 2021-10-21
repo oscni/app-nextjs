@@ -33,6 +33,7 @@ update the content files and instantly see your updates in the browser.
 ## Quick Start 🏎
 
 
+
 [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/app-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
 Stackbit will execute following steps for you
